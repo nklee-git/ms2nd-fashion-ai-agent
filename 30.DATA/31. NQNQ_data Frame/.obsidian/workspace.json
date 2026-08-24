@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ad8b31347cf0d082",
+    "type": "split",
+    "children": [
+      {
+        "id": "c495b150fb855d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f47cceaa005c83aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NQNQ_Basic Frame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NQNQ_Basic Frame"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69be00fd439f25f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d827dedfc3abcc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b917b0179a347d20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "68e61468b43c7d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "454afec196897f1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "173b6bf16334f8c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f27b3cc5150c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97fd7cd7c2f82d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NQNQ_Basic Frame.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "4c425bafbe558e48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NQNQ_Basic Frame.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "0cfc425182951649",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "d3240658e8811242",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "f9f852a42485db4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NQNQ_Basic Frame.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "f47cceaa005c83aa",
+  "lastOpenFiles": [
+    "10. AI-Powered Smart MD Operating System (NQNQ OS).md",
+    "NQNQ_Basic Frame.md",
+    "9.Virtual Team Profiles & Dashboard User Accounts.md",
+    "8. Organization & Team Structure.md",
+    "7. Enterpirse Structure & Cross-Fucntional Collaboration.md",
+    "4. Core Product Categories.md",
+    "무제.canvas",
+    "3. Brand Visual & Tone.md",
+    "1. Brand Story & Identity.md",
+    "6. Next Action Items.md",
+    "5. Platform Synergy Strategy (ZigZag).md",
+    "2. Target & Persona.md",
+    "1. Brand Story & Idntity.md",
+    "환영합니다!.md"
+  ]
+}

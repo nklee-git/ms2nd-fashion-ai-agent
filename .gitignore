@@ -1,0 +1,6 @@
+# 대용량 생성 데이터 (100MB+ GitHub 제한 초과) - generate_v4.py / generate_v4_miss.py / add_wholesale.py로 로컬 재생성
+30.DATA/32. nqnq_data/*.db
+
+# Obsidian 로컬 설정 (개인 UI 상태, 공유 불필요)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
