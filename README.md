@@ -10,7 +10,7 @@
 
 ## 어디서부터 볼지
 1. [00.README.md](00.README.md) — 폴더 구성 3줄 요약
-2. [01.PLANNING/11.KickOFF.md](<01.PLANNING/11.KickOFF.md>) — 프로젝트 방향성 전체 (여기부터 읽기 추천)
+2. [01.PLANNING/11. KickOFF.md](<01.PLANNING/11. KickOFF.md>) — 프로젝트 방향성 전체 (여기부터 읽기 추천)
 3. [00.WBS/01. PM TODO board.md](<00.WBS/01. PM TODO board.md>) — 지금 뭘 하고 있는지
 4. [20.ARCHITECTURE/24. 기능명세서 v1.md](<20.ARCHITECTURE/24. 기능명세서 v1.md>) — 크로스커팅 계약 + 롤별 TBD
 5. [01.PLANNING/13. 팀 온보딩 체크리스트.md](<13. 팀 온보딩 체크리스트.md>) — 합류 직후 준비사항
