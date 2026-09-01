@@ -3,7 +3,7 @@
 > **Target**: 18-24 (Z세대 / 대학생 & 사회초년생 여성) 
 > **Core Concept**: Z를 뒤집으면 N, 트렌디함과 베이직의 재치 있는 경계
 
-> **📦 2026-08-21 폴더 재구성**: 이 폴더(`10.DATA`)는 **가상 데이터 생성을 위한 소스**로만 씁니다 — 브랜드 기획, SKU/재고/조직 설계, `nqnq_data` 생성 스크립트가 여기 있습니다. NQNQ는 가상 고객사 브랜드일 뿐 실제 제품명이 아닙니다. **실제 2차 프로젝트는 `20.PROJECT/22.MS_2nd_Project` 폴더**(작업명: Fashion AI Agent Appservice)입니다. 시작점: `22.MS_2nd_Project/00.README.md`
+> **📦 2026-08-21 폴더 재구성 (2026-09-01 경로 갱신)**: 이 폴더(`30.DATA`)는 **가상 데이터 생성을 위한 소스**로만 씁니다 — 브랜드 기획, SKU/재고/조직 설계, `nqnq_data` 생성 스크립트가 여기 있습니다. NQNQ는 가상 고객사 브랜드일 뿐 실제 제품명이 아닙니다. **실제 2차 프로젝트는 `20.PROJECT/23.MS_2nd_Project_TeamShare` 폴더**(작업명: Fashion AI Agent Appservice)입니다. 시작점: `23.MS_2nd_Project_TeamShare/00.README.md` — 제품 아키텍처·PM 문서(구 60/80번 밴드)는 전부 그 폴더 안(`20.ARCHITECTURE`·`00.WBS`)에 있고, 이 폴더의 색인에는 더 이상 중복해서 나열하지 않습니다.
 
 ## 📋 Table of Contents
 
@@ -45,16 +45,10 @@
 [[53. Virtual Team Profiles & Dashboard User Accounts]]
 [[54. Task Types & Approval Workflow]]
 
-### 60. AI System & Dashboard
-[[21. Appservice Core model]]
-[[23. Alert & Trigger Rules]]
-
 ### 70. Data Model & Architecture
 [[71. Entity Definitions & Data Dictionary]]
 [[72. Entity Relationship Diagram]]
 [[73. Local-First Architecture & Migration Plan]]
 [[74. Real-World Data Grounding (Weather & Body)]]
 
-### 80. Project Management
-[[02. Project WBS & Roadmap]]
-[[09. Changelog & Version History]]
+> 실제 제품(Fashion AI Agent Appservice)의 아키텍처·PM 문서는 이 폴더 소관이 아닙니다 — [[21. Appservice Core model]]·[[23. Alert & Trigger Rules]]는 `20.ARCHITECTURE`, [[02. Project WBS & Roadmap]]·[[09. Changelog & Version History]]는 `00.WBS`에 있습니다.
