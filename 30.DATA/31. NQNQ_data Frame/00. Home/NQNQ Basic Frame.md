@@ -51,4 +51,4 @@
 [[73. Local-First Architecture & Migration Plan]]
 [[74. Real-World Data Grounding (Weather & Body)]]
 
-> 실제 제품(Fashion AI Agent Appservice)의 아키텍처·PM 문서는 이 폴더 소관이 아닙니다 — [[21. Appservice Core model]]·[[23. Alert & Trigger Rules]]는 `20.ARCHITECTURE`, [[02. Project WBS & Roadmap]]·[[09. Changelog & Version History]]는 `00.WBS`에 있습니다.
+> 실제 제품(Fashion AI Agent Appservice)의 아키텍처·PM 문서는 이 폴더 소관이 아닙니다 — [[21. Appservice Core model]]·[[23. Alert & Trigger Rules]]는 `20.ARCHITECTURE`, 진행관리 문서는 `00.WBS`에 있습니다.
