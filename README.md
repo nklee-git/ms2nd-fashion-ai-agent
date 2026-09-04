@@ -9,11 +9,11 @@
 - ML, RAG, 백엔드(Azure), 프론트엔드 등 롤별로 나눠 협업하는 구조입니다.
 
 ## 어디서부터 볼지
-1. [00.README.md](00.README.md) — 폴더 구성 3줄 요약
-2. [01.PLANNING/11. KickOFF.md](<01.PLANNING/11. KickOFF.md>) — 프로젝트 방향성 전체 (여기부터 읽기 추천)
-3. [00.WBS/01. PM TODO board.md](<00.WBS/01. PM TODO board.md>) — 지금 뭘 하고 있는지
-4. [20.ARCHITECTURE/24. 기능명세서 v1.md](<20.ARCHITECTURE/24. 기능명세서 v1.md>) — 크로스커팅 계약 + 롤별 TBD
-5. [01.PLANNING/13. 팀 온보딩 체크리스트.md](<13. 팀 온보딩 체크리스트.md>) — 합류 직후 준비사항
+1. [00.README.md](OBSIDIAN/2026_MS_DATASCHOOL/20.PROJECT/22.MS_2nd_Project/01.MS_2nd_Project_Team/00.README.md) — 폴더 구성 3줄 요약
+2. [01.PLANNING/11. KickOFF.md](<OBSIDIAN/2026_MS_DATASCHOOL/20.PROJECT/22.MS_2nd_Project/01.MS_2nd_Project_Team/01.PLANNING/11. KickOFF.md>) — 프로젝트 방향성 전체 (여기부터 읽기 추천)
+3. [00.WBS/01. PM TODO board.md](<OBSIDIAN/2026_MS_DATASCHOOL/20.PROJECT/22.MS_2nd_Project/01.MS_2nd_Project_Team/00.WBS/01. PM TODO board.md>) — 지금 뭘 하고 있는지
+4. [20.ARCHITECTURE/24. 기능명세서 v1.md](<OBSIDIAN/2026_MS_DATASCHOOL/20.PROJECT/22.MS_2nd_Project/01.MS_2nd_Project_Team/20.ARCHITECTURE/24. 기능명세서 v1.md>) — 크로스커팅 계약 + 롤별 TBD
+5. [01.PLANNING/13. 팀 온보딩 체크리스트.md](<OBSIDIAN/2026_MS_DATASCHOOL/20.PROJECT/22.MS_2nd_Project/01.MS_2nd_Project_Team/01.PLANNING/13. 팀 온보딩 체크리스트.md>) — 합류 직후 준비사항
 
 ## 참고
 - `30.DATA/32. nqnq_data/*.db`(약 500MB, 생성된 가상 DB)는 GitHub 용량 제한으로 저장소에서 제외되어 있습니다. 필요하면 같은 폴더의 `generate_v4.py`를 로컬에서 실행해 재생성하세요.
